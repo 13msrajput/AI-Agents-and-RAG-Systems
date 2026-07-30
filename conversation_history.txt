@@ -1,0 +1,15 @@
+Conversation History:
+
+You: hi
+AI: Hello! How can I assist you today?
+
+You: tell me a joke and also add 1+2
+AI: Sure, here's a joke for you:
+
+What do you call a boomerang that won't come back?
+
+A stick!
+
+And the answer to 1+2 is 3.
+
+End of Conversation

@@ -1,0 +1,86 @@
+# ===============================
+# OS / System files
+# ===============================
+desktop.ini
+Thumbs.db
+.DS_Store
+*.lnk
+
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# ===============================
+# Jupyter / IPython
+# ===============================
+.ipynb_checkpoints/
+.profile_default/
+
+# ===============================
+# IDEs / Editors
+# ===============================
+.vscode/
+.idea/
+*.iml
+
+# ===============================
+# Logs & temp files
+# ===============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# ===============================
+# Build / cache
+# ===============================
+build/
+dist/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# ===============================
+# ML / AI artifacts
+# ===============================
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.h5
+*.joblib
+
+# ===============================
+# Secrets (never commit)
+# ===============================
+.env
+.env.*
+*.key
+*.pem
+*.crt
+
+# ===============================
+# Git noise
+# ===============================
+.git/
+.gitignore.swp
+
+# ===============================
+# txt files
+# ===============================
+my_document.txt
